@@ -1,6 +1,4 @@
 pandas
-sklearn.model_selection
-sklearn.ensemble
-sklearn.metrics
+scikit-learn
 joblib
 streamlit
