@@ -6,7 +6,7 @@ import joblib
 import streamlit as st
 
 # Load the dataset from a CSV file
-df = pd.read_csv('/Users/shaik.davoodumar/Desktop/ jjk/career_dataset (2).csv')
+df = pd.read_csv('career_dataset (2).csv')
 
 # Check and clean column names
 df.columns = df.columns.str.strip()
